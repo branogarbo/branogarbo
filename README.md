@@ -1,6 +1,6 @@
-### Hi there 👋
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=branogarbo&theme=outrun&show_icons=true)
 
-<!--
+<!-- add later?
 **branogarbo/branogarbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
